@@ -1,5 +1,5 @@
 PKG_NAME := pypi-webtest
-URL = https://files.pythonhosted.org/packages/20/7e/7534c43c97234d0b5c9f228bb9646c4611e0fa33c2cefeb2e968be96d27e/webtest-3.0.1.tar.gz
+URL = https://files.pythonhosted.org/packages/26/a1/0f122e385fe9634360adb39f1844b75f315be1d7bd5b310e0af59f1cacc7/webtest-3.0.2.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
