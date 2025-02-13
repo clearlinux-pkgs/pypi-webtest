@@ -7,7 +7,7 @@
 #
 Name     : pypi-webtest
 Version  : 3.0.4
-Release  : 103
+Release  : 104
 URL      : https://files.pythonhosted.org/packages/26/c5/b25980d591b111f3898c27b140bc30977794157522a8da91f5bbb5de99b7/webtest-3.0.4.tar.gz
 Source0  : https://files.pythonhosted.org/packages/26/c5/b25980d591b111f3898c27b140bc30977794157522a8da91f5bbb5de99b7/webtest-3.0.4.tar.gz
 Summary  : Helper to test WSGI applications
